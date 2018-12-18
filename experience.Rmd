@@ -1,0 +1,102 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+
+---
+
+I come from financial area, I worked on many uses cases: from financial market to marketing topics.
+ 
+-----
+
+
+
+
+### Amundi Asset Management
+
+**2010-2011: Statistics internship**
+
+Topic: built statistical arbitrage model
+
+- **data**: *management of financial data*
+
+- **analysis**: *financial time series*
+
+- **model**: *set up statistical arbitrage model based on extreme value theory*
+
+
+### Societe Generale
+
+**2011-2012: Statistics internship**
+
+Topic: built statistical arbitrage model
+
+- **data**: *management of financial data*
+
+- **analysis**: *financial time series*
+
+- **model**: *set up statistical arbitrage model based on cointegration*
+
+
+
+### BNP Paribas
+
+**2014-2015: Data Scientist**
+
+- **pricing**: *financial derivative product*
+
+- **analysis**: *financial time series, anomaly detection*
+
+- **data**: *set up data management tools*
+
+
+
+### BPCE Group
+
+**2015-2017: Data Scientist**
+
+- **finance**: *pricing of financial product, asset and liabilities management*
+
+- **analysis**: *time series, set up statistical tools (hidden markov chains model, GARCH, monte carlo simulation)*
+
+- **data**: *set up data architecture*
+
+- **Machine learning**: *set up model to predict churn of customers*
+
+
+### RCI Bank & Services
+
+**2017-today: Data Scientist**: Work @ DataLab
+
+
+* **machine learning**:
+    + risk: scoring of customers
+    + marketing: scoring of customers
+    
+* **deep learning**:
+    + scoring test using keras & tensorflow
+    + facial recognition
+
+* **text mining**:
+    + NLP customer satisfaction: classification model, sentimental analysis, clustering sentence model, similarity sentence
+    
+* **web application**: *devellopement of several appplication using R shiny (classique, dashboard, material)*
+    + data processing & machine learning (more than 10 algorithms)
+    + targeting tools; data processing, filtering, mailing, segmentation
+    + facial recognition
+    + text mining; text processing, clustering, NLP, DataViz
+    + social network data extraction; NLP, DataViz
+    
+* **API**:
+    + data extraction: facebook, twitter
+    + image processing: google vision
+    + sound processing: google speech
+    + geolocalisation: google map
+    
+* **Industrialization**:
+    + gitlab
+    + push in production using R studio server pro / Shiny server pro
+

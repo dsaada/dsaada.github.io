@@ -1,0 +1,18 @@
+name: "my-website"
+navbar:
+  title: "David Saada"
+  left:
+    - text: "School"
+      href: page1.html
+    - text: "Work"
+      href: experience.html
+    - text: "R studio"
+      href: RStudio.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/dsaada
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/david-saada-b8425438/
+

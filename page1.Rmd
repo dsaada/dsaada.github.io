@@ -1,0 +1,60 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+---
+
+I studied mathematics and data science at university and in engineering school. I have a solid skills in machine learning, deep learning, datavizualisation & web application development.
+
+
+### University Paris I Pantheon Sorbonne
+
+**2006-2010: MA in statistics**
+
+- **mathematics**: *probability, statistics, analysis, optimization, econometrics, game theory, data analysis, hilbert space*
+
+- **economics**: *industrial economy, microeconomy, macroeconomy, monetary policy*
+
+- **finance**: *corporate finance, portfolio management, financial mathematics*
+
+- **programming**: *C,HTML/CSS*
+
+**Thesis**: Gaussian process & brownian motion (with highest honor of the jury)
+
+*high honors*
+
+[Master MAEF](http://www.pantheonsorbonne.fr/index.php?id=111876)
+
+
+
+
+
+### ENSAE: Data Science Engineering School 
+
+**2010-2013: Master of Science**
+
+- **mathematics**: *machine learning, statistical learning, stochastic calculus, econometrics, hidden markov chains model, stochastic process, datamining, dataviz, GARCH and stochastic volatility models, Geometric Methods in Machine Learning, high dimensional statistics, bayesian statistics, asymptotical statistics, bootstrap*
+
+- **global**: *innovation, accounting, law*
+
+- **programming**: *C++, R, SAS, Matlab, Stata*
+
+[MSc of Data Science](http://www.ensae.fr/data-science/)
+
+
+### University Paris VII Denis Diderot 
+
+**2012-2013: Master of Science**
+
+- **mathematics**: *machine learning, stochastic calculus, markov chains, massive data processing, time series, kalman filter, diffusion statistics, stochastic control, extrem statistics*
+
+**Thesis**: Machine learning application on  equity high frequency market
+
+[MSc of Statistics](https://masterfinance.math.univ-paris-diderot.fr/)
+
+
+
+

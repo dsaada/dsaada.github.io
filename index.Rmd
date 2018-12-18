@@ -1,0 +1,17 @@
+---
+title: "Home"
+---
+    
+"Data Science is not just a science, it's an art".
+
+<img src="test.jpg" style="width:15%; border:10px solid; margin-right: 25px" align="left">
+
+I am passionate about data science, I like answering problems with modeling and artificial intelligence, I have solid skills in machine learning, data visualization and web application development. I am also curious and always looking for innovation, tracking the latest model & API.
+
+I'm graduated from the [University Paris 1 Panthéon-Sorbonne](http://www.pantheonsorbonne.fr/ufr/ufr27/formations/licence-mia-massmiage/), [University Paris Diderot](https://masterfinance.math.univ-paris-diderot.fr/) and [ENSAE: Engineering School in Data Science](http://www.ensae.fr/en/) in statistics and data science field (2006-2013).
+
+I did a gap year internship in Statistics at [Amundi Asset Management](https://www.amundi.fr/) & [Societe Generale](https://www.societegenerale.com/fr/accueil). I also make a one year project with [BNP Paribas](https://mabanque.bnpparibas/) with high frequency trading team for applied machine learning project. The global internship topic is statistical arbitrage.
+
+I worked as a statistician at [BNP Paribas](https://mabanque.bnpparibas/) between 2014 and 2015, then as a data scientist at [BPCE Group, Credit Foncier](https://www.groupebpce.fr/) between 2015 and 2017. Since 2018 I am data scientist in the DataLab of [RCI Bank and Services](https://www.rcibs.com/en)
+
+I am R enthusiast and it's my first tool of work at work!
